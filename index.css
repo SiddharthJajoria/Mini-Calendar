@@ -21,6 +21,7 @@ body{
     justify-content: space-between;
     align-items: center;
     overflow: hidden;
+    -webkit-box-reflect:below .5px linear-gradient(transparent,transparent,#0004);
 }
 .upper{
     position: absolute;
